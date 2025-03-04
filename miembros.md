@@ -4,7 +4,7 @@
 * Black Widow
 * Capitán America
 * Falcon
-* Hank Pym
+* Hank Pym.
 * Hawkeye
 * Hulk
 * Iron Man
